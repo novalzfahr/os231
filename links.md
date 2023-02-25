@@ -26,3 +26,13 @@ Berisi *commands* pada vim. Ini membantu dalam memahami *commands* yang ada pada
 
 4. [Regex](https://youtu.be/rhzKDrUiJVk)<br>
 Video ini berisi pengenalan regex dasar yang perlu kamu ketahui. Video ini sangat membantu untuk memahami regex dasar dalam 20 menit.
+
+## Week 02
+1. [Digital Privacy](https://www.youtube.com/watch?v=u8_9AQYLSbo&feature=youtu.be)
+Saya merekomendasikan untuk teman-teman melihat video ini. Pada video ini diajarkan basic digital privacy dan tindakan yang dapat diambil.
+
+2. [Online Privacy Beginner](https://www.freecodecamp.org/news/the-beginners-guide-to-online-privacy-7149b33c4a3e/)
+Link ini akan berguna jika kamu ingin mengetahui *online privacy*. Saya sangat merekomendasikannya.
+
+3. [GPG / PGP and How to Use It ?](https://www.privex.io/articles/what-is-gpg)
+Website ini menjelaskan tentang cara menggunakan GPG termasuk *generate key*. Saya sangat merekomendasikannya
