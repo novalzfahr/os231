@@ -41,8 +41,7 @@ Website ini menjelaskan tentang cara menggunakan GPG termasuk *generate key*. Sa
 1. [File Concepts](https://notesformsc.org/file-concepts/#:~:text=A%20file%20is%20named%20collection,by%20its%20owner%20or%20creator.)
 Link ini sangat berguna jika ingin mengetahui mengenai *file concepts*. Saya sangat merekomendasikannya.
 
-2. [File Sharing](https://www.techtarget.com/searchmobilecomputing/definition/file-sharing)<br>
-In this century, file sharing is very important dan useful. In this link, you may to know how file sharing work.
+2. [File Sharing](https://www.techtarget.com/searchmobilecomputing/definition/file-sharing)
 Pada masa sekarang file sharing sangat penting dan bermanfaat. Website ini menjelaskan tutorialnya dengan baik.
 
 
