@@ -47,3 +47,14 @@ Pada masa sekarang file sharing sangat penting dan bermanfaat. Website ini menje
 
 3. [What is TAR File?](https://www.lifewire.com/tar-file-2622386)
 Pada Linux, file TAR cukup populer. Website ini menjelaskan fungsi dan manfaatnya.
+
+## Week 04
+1. [w3schools](https://www.w3schools.com/)
+Website ini memberikan syntax dasar bahasa C. Website ini cukup lengap dan mudah dipahami.
+
+2. [Declaring & Initializing Pointers in C](https://youtu.be/b3G9RjG4l2s)
+Video ini menjelaskan cara inisiasi pointer pada C dengan jelas dan mudah. Bagi yang ingin mendalami, saya sarankan menontonnya
+
+3. [Paging and Segmentation](https://www.enterprisestorageforum.com/hardware/paging-and-segmentation/)
+Segmentasi adalah pendekatan manajemen memori di mana setiap tugas dibagi menjadi sejumlah segmen dengan berbagai ukuran, sedangkan paging membagi ruang alamat proses menjadi blok dengan ukuran yang sama yang disebut *pages*. Penjelasannya mudah dipahami.
+
