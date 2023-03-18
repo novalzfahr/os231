@@ -58,3 +58,17 @@ Video ini menjelaskan cara inisiasi pointer pada C dengan jelas dan mudah. Bagi 
 3. [Paging and Segmentation](https://www.enterprisestorageforum.com/hardware/paging-and-segmentation/)
 Segmentasi adalah pendekatan manajemen memori di mana setiap tugas dibagi menjadi sejumlah segmen dengan berbagai ukuran, sedangkan paging membagi ruang alamat proses menjadi blok dengan ukuran yang sama yang disebut *pages*. Penjelasannya mudah dipahami.
 
+## Week 05
+
+1. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+Dengan bantuan metode alokasi penyimpanan yang dikenal sebagai memori virtual, memori sekunder dapat digunakan seolah-olah merupakan komponen dari memori utama.
+
+2. [Cache Memory in Computer Organization](https://www.geeksforgeeks.org/cache-memory-in-computer-organization/)
+Kecil, memori sementara dikenal sebagai memori cache. Informasi atau komponen memori utama yang biasanya diakses CPU disimpan dalam memori cache sehingga prosesor dapat mengaksesnya dengan cepat dan mudah.
+
+3. [Memory Management in OS: Contiguous, Swapping, Fragmentation](https://www.guru99.com/os-memory-management.html)
+Artikel ini membahas strategi manajemen memori, menjelaskan pertukaran, membahas alokasi memori, dan membahas paging, fragmentasi, pemuatan dinamis segmentasi, dan penautan dengan variasi dari versi statis.
+
+4. [Thrashing in Operating System (OS)](https://www.thecrazyprogrammer.com/2019/02/thrashing-in-operating-system-os.html)
+Kita harus memahami kesalahan halaman dan bertukar, seperti yang dinyatakan dalam artikel. Keduanya memiliki koneksi ke proses meronta-ronta. Ketika kerusakan halaman lebih sering terjadi dan diikuti dengan tingkat pertukaran yang lebih tinggi, sistem operasi harus menghabiskan lebih banyak waktu untuk menukar halaman ini.
+
