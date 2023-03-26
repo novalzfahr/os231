@@ -72,3 +72,12 @@ Artikel ini membahas strategi manajemen memori, menjelaskan pertukaran, membahas
 4. [Thrashing in Operating System (OS)](https://www.thecrazyprogrammer.com/2019/02/thrashing-in-operating-system-os.html)
 Kita harus memahami kesalahan halaman dan bertukar, seperti yang dinyatakan dalam artikel. Keduanya memiliki koneksi ke proses meronta-ronta. Ketika kerusakan halaman lebih sering terjadi dan diikuti dengan tingkat pertukaran yang lebih tinggi, sistem operasi harus menghabiskan lebih banyak waktu untuk menukar halaman ini.
 
+## Week06
+1. [Single-threaded and Multi-threaded Processes](https://www.tutorialspoint.com/single-threaded-and-multi-threaded-processes)
+Proses single-threaded hanya menjalankan satu set instruksi pada satu waktu.Dengan kata lain, setiap perintah ditangani secara terpisah. Proses multithreaded adalah kebalikan dari proses single-threaded. Prosedur-prosedur ini memungkinkan eksekusi bersamaan dari banyak komponen program. Ini adalah operasi ringan yang tersedia dalam proses.
+
+2. [All You Need To Know About Processes in Linux](https://www.tecmint.com/linux-process-management/)
+Suatu program dalam eksekusi disebut sebagai suatu proses; itu adalah instance yang sedang berjalan dari suatu program. Suatu proses biasanya memulai yang baru ketika menghasilkan replika yang identik dari dirinya sendiri di memori. Satu-satunya perbedaan antara lingkungan proses anak dan induknya adalah nomor ID proses. Program pertama yang diluncurkan saat sistem Linux melakukan booting adalah proses Init, yang merupakan induk (induk) dari semua proses pada sistem.
+
+3. [fork in C](https://www.geeksforgeeks.org/fork-system-call/)
+Salah satu konsep penting yang perlu Anda pahami dalam kursus Sistem Operasiadalah fork system call. Proses baru yang dikenal sebagai "*child process*"dibuat dengan fungsi sistem fork dan berjalan bersamaan dengan proses yang memanggil fork() (*parent process*).
