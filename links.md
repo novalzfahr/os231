@@ -81,3 +81,17 @@ Suatu program dalam eksekusi disebut sebagai suatu proses; itu adalah instance y
 
 3. [fork in C](https://www.geeksforgeeks.org/fork-system-call/)
 Salah satu konsep penting yang perlu Anda pahami dalam kursus Sistem Operasiadalah fork system call. Proses baru yang dikenal sebagai "*child process*"dibuat dengan fungsi sistem fork dan berjalan bersamaan dengan proses yang memanggil fork() (*parent process*).
+
+## Week 07
+
+1. [Process Synchronization in Operating System](https://my.eng.utah.edu/~cs5460/slides/Lecture07.pdf)<br>
+Prinsip dasar dari sebagian besar sinkronisasi adalah sebagai berikut: Tahan salah satu utas, proses, penangan interupsi, dll. hingga aman untuk melanjutkan jika dua di antaranya akan memiliki akses yang bertentangan.
+
+2. [Critical Section in Synchronization](https://www.geeksforgeeks.org/g-fact-70/)<br>
+Istilah "bagian kritis" mengacu pada segmen kode yang diakses oleh beberapa program. Variabel atau sumber daya bersama di bagian kritis harus disinkronkan untuk memastikan konsistensi variabel data.
+
+3. [Difference between Mutex and Semaphore in Operating System](https://afteracademy.com/blog/difference-between-mutex-and-semaphore-in-operating-system)<br>
+Akses sumber daya dapat disinkronkan menggunakan mutex, objek pengecualian bersama. Suatu program segera diberi nama khusus. Semafor adalah perangkat pensinyalan setelah itu. Anda dapat belajar tentang perbedaan mutex dan semaphore dengan membaca halaman web ini. Untuk membantu Anda memahami mutex dan semaphore dengan lebih baik, mereka juga memberikan contoh sederhana.
+
+4. [Deadlock Prevention And Avoidance](https://www.geeksforgeeks.org/deadlock-prevention/)<br>
+Deadlock adalah situasi di mana sekelompok (atau lebih) proses tidak dapat diselesaikan karena mereka masing-masing memegang sumber daya yang dibutuhkan oleh proses lainnya. Ini akan menjadi penantian siklik dalam keadaan ini.
