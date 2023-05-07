@@ -95,3 +95,11 @@ Akses sumber daya dapat disinkronkan menggunakan mutex, objek pengecualian bersa
 
 4. [Deadlock Prevention And Avoidance](https://www.geeksforgeeks.org/deadlock-prevention/)<br>
 Deadlock adalah situasi di mana sekelompok (atau lebih) proses tidak dapat diselesaikan karena mereka masing-masing memegang sumber daya yang dibutuhkan oleh proses lainnya. Ini akan menjadi penantian siklik dalam keadaan ini.
+
+## Week 08
+
+1. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
+I/O time dan CPU time sering dikonsumsi selama prosedur. Sistem pemrograman mono seperti MS-DOS membuang-buang waktu saat CPU menganggur sambil menunggu I/O. Satu proses dalam sistem multiprogramming mungkin menggunakan CPU sementara yang lain menunggu I/O. Hanya dengan penjadwalan proses hal ini dapat dilakukan.
+
+2. [Deadline scheduler in Operating System](https://www.geeksforgeeks.org/deadline-scheduler-in-operating-system/)<br>
+The Linux kernel's Deadline Scheduler adalah penjadwal I/O yang memastikan waktu mulai layanan permintaan. Untuk menghentikan permintaan yang tidak diinginkan, penjadwal tenggat memberlakukan tenggat waktu pada semua aktivitas I/O. Dua antrian baca dan tulis tenggat waktu disimpan, yang pada dasarnya dipesan berdasarkan tenggat waktu mereka. Penjadwal memilih antrean mana yang akan menangani setiap permintaan baru. Karena proses sering macet saat operasi pembacaan sedang berlangsung, antrian baca diberi prioritas lebih tinggi daripada antrian tulis.
