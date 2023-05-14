@@ -103,3 +103,11 @@ I/O time dan CPU time sering dikonsumsi selama prosedur. Sistem pemrograman mono
 
 2. [Deadline scheduler in Operating System](https://www.geeksforgeeks.org/deadline-scheduler-in-operating-system/)<br>
 The Linux kernel's Deadline Scheduler adalah penjadwal I/O yang memastikan waktu mulai layanan permintaan. Untuk menghentikan permintaan yang tidak diinginkan, penjadwal tenggat memberlakukan tenggat waktu pada semua aktivitas I/O. Dua antrian baca dan tulis tenggat waktu disimpan, yang pada dasarnya dipesan berdasarkan tenggat waktu mereka. Penjadwal memilih antrean mana yang akan menangani setiap permintaan baru. Karena proses sering macet saat operasi pembacaan sedang berlangsung, antrian baca diberi prioritas lebih tinggi daripada antrian tulis.
+
+## Week 09
+
+1. [Master Boot Record (MBR)](https://www.techtarget.com/whatis/definition/Master-Boot-Record-MBR)<br>
+The Master Boot Record (MBR) adalah informasi di sektor pertama hard disk atau drive yang dapat dilepas. Ini mengidentifikasi bagaimana dan di mana sistem operasi (OS) sistem berada agar dapat di-boot (dimuat) ke komputer utama
+
+2. [Network-Attached Storage (NAS)](https://iosafe.com/data-protection-topics/what-is-a-nas-device/)<br>
+A network-attached storage (NAS) device  adalah perangkat penyimpanan data yang terhubung ke dan diakses melalui jaringan, alih-alih terhubung langsung ke komputer
